@@ -57,8 +57,6 @@ s1 = borderfunc(tl, tr)
 s2 = borderfunc(tr, br)
 s3 = borderfunc(br, bl)
 s4 = borderfunc(bl, tl)
-#PV = (1/3)N*v^3
-#PV = nRT
 
 
 # Create particles
