@@ -27,7 +27,8 @@ class Particle():
         y = int(self.body.position.y)     
 
         pygame.draw.circle(screen, (255,0,0), (x,y), self.r)
-    
+
+    #Calculates the kinetic energy of the particle
     def calculate_KE(self):
         
         return 0.5*self.mass*(self.body.velocity[0]**2 + self.body.velocity[1]**2)
