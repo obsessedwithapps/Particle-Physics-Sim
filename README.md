@@ -1,6 +1,6 @@
 # Particle-Physics-Sim
 
-## Introduction
+## Abstract
 The purpose of these simulations is to illustrate a couple of phenomena in particle physics. In the respected field, a key challenge is the scale at which these phenomena occur. We cannot see particles with the human eye, so it defaults to a troublesome learning experience for others. Computer simulations in this field help provide insight into what happens in these phenomena. For this project, I made a simulation based on particle collisions and another simulation based on heat. Keep in mind that they may not be 100% accurate since they are supposed to be simplifications of the actual phenomenon, yet still mostly accurately depict it.
 
 ## Simulation Methodology
